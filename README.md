@@ -70,3 +70,8 @@ To run this project:
 2. Make sure Docker is installed and running
 3. Open terminal in the project folder and run: docker build -t webserver .
 4. Then run: docker run -p 8080:80 webserver and open http://localhost:8080 in browser.
+5. ## 📁 Frontend Development Tasks
+### 1. Calculator
+ **Live Link:** [View App](https://mishalmazhar807.github.io/codealpha_tasks-/frontend%20development%20task/calculator/) 
+### 2. Image Gallery
+**Live Link:**  [View App](https://mishalmazhar807.github.io/codealpha_tasks-/frontend%20development%20task/image%20gallery/)
